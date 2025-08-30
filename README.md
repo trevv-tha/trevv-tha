@@ -9,7 +9,7 @@
 ## About Me 🚀
 
 Hi, I’m **Hamza Ofori Mohammed** 👋  
-I’m a **Graphic Designer and Front-End Developer** who brings ideas to life through clean visuals and functional code.  
+I’m a **Graphic Designer, Front-End Developer and a learner** who brings ideas to life through clean visuals and functional code.  
 I design it, I code it, and I make it work (and look good too).   
 
 - 🌱 Currently learning: **TailwindCSS, Node.js, and modern UI/UX practices**  
