@@ -20,6 +20,16 @@ I design it, I code it, and I make it work (and look good too).
 
 ---
 
+<!-- Inspiration Section -->
+## 🌟 What Inspires Me  
+
+<p align="justify">
+Technology is more than just code it’s about <strong>building experiences that matter</strong>.  
+I’m inspired by developers who turn abstract ideas into tools people use daily, and I’m driven by the challenge of doing the same.  
+</p>
+
+---
+
 ## My Skills 🧠  
 
 **Front-End Development**  
