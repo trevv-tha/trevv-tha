@@ -2,14 +2,14 @@
 
 ![Banner](banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=500&lines=Graphic+Designer;Front-End+Web+Developer;Creative+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&width=500&lines=Front-End+Web+Developer;Graphic+Designer;Creative+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
 ## About Me 🚀
 
 Hi, I’m **Hamza Ofori Mohammed** 👋  
-I’m a **Graphic Designer, Front-End Developer and a learner** who brings ideas to life through clean visuals and functional code.  
+I’m a **Front-End Developer, Graphic Designer, and a learner** who brings ideas to life through clean visuals and functional code.  
 I design it, I code it, and I make it work (and look good too).   
 
 - 🌱 Currently learning: **TailwindCSS, Node.js, and modern UI/UX practices**  
