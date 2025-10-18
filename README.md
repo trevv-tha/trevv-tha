@@ -15,7 +15,7 @@ I design it, I code it, and I make it work (and look good too).
 - 🌱 Currently learning: **TailwindCSS, Node.js, and modern UI/UX practices**  
 - 🔭 Working on: **my portfolio website and a series of creative landing pages**  
 - 🤖 Exploring: **AI tools for design and web workflows (ChatGPT, MidJourney, Figma AI)**  
-- ⚡ Fun fact: I see websites as “digital posters” — every pixel has a story.  
+- ⚡ Fun fact: I see websites as “digital posters” where every pixel has a story.  
   
 
 ---
